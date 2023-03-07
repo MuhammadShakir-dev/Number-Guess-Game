@@ -1,2 +1,3 @@
 # Number-Guess-Game
-Number Guessing Game in JavaScript.
+> Number Guessing Game in JavaScript.
+
